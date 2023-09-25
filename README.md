@@ -1,2 +1,2 @@
-# project1
- This is the repository for project1
+# Project1
+ This is the repository for Project1
